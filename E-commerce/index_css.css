@@ -1,0 +1,38 @@
+/* @import "section-2_slideshow"; */
+
+.section-1{
+  height: 410px;
+  width:100%;
+  background-color: lightblue;
+  background-image: url(' file:///D:/GAMES/Project/E com self/Images/shopping girl.png');
+  background-repeat: no-repeat;
+  background-position:75% 0%;
+  background-size: auto;
+}
+.row{
+  height: 410px;
+}
+#apple{
+  position: absolute;
+  top:50%;
+  right: 3px;
+}
+#google{
+  position: absolute;
+  top:50%;
+}
+.carousel-control-prev-icon{
+  position: absolute;
+  top: 50%;
+}
+.home{
+  margin-left: 2%;
+}
+.heading{
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+
+img{
+  max-height: 500px;
+}
